@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flCore">
+    <output-path>$USER_HOME$/Desktop/Firelight/FirelightHub/plugins</output-path>
+    <root id="archive" name="flCore.jar">
+      <element id="module-output" name="flCore" />
+    </root>
+  </artifact>
+</component>

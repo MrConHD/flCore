@@ -1,0 +1,8 @@
+name: FlCore
+author: MrConHD
+version: 1.0A
+main: me.ComputerCon.Firelight.Core
+
+commands:
+    help:
+        description: help command
