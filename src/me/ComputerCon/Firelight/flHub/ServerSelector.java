@@ -18,7 +18,7 @@ import java.util.Arrays;
  */
 public class ServerSelector implements Listener {
 
-    public Inventory serverselector = Bukkit.createInventory(null, 27, ChatColor.translateAlternateColorCodes('&', "&c&lFirelight&6&lMC &7» &eSERVER SELECTOR"));
+    public Inventory serverselector = Bukkit.createInventory(null, 27, ChatColor.translateAlternateColorCodes('&', "&c&lFirelight&6&lMC"));
 
     public void openSS(Player p) {
         ItemStack factions = new ItemStack(Material.CHEST);

@@ -15,7 +15,7 @@ public class Holograms implements CommandExecutor {
             if (sender instanceof Player) {
                 Player p = (Player) sender;
                 if (p.hasPermission("firelight.hologram")) {
-                    if (args.length <)
+                 //   if (args.length <)
                 }
             }
         }

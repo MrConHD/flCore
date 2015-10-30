@@ -17,7 +17,7 @@ import java.util.List;
  */
 public class SettingsManager {
 
-    private SettingsManager () {}
+    private SettingsManager() {}
     private static SettingsManager instance = new SettingsManager();
 
     public static SettingsManager getSettingsManager()
